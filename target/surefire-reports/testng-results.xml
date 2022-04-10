@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TabSquareDrBatra.TabSquareDrBatra.RunCukesTest" duration-ms="9" started-at="2022-04-09T22:47:15 IST" finished-at="2022-04-09T22:47:15 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="9" started-at="2022-04-09T22:47:15 IST" finished-at="2022-04-09T22:47:15 IST">
+    </test> <!-- Command line test -->
+  </suite> <!-- TabSquareDrBatra.TabSquareDrBatra.RunCukesTest -->
+</testng-results>
